@@ -1,0 +1,55 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Sasahae.github.com" resolutions="1x" timestamp="1546644301611">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="154808951" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="yg.jpg" crc="3762239490" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u308-6.png" crc="3818255698" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u388.png" crc="123726543" ref="index"/>
+    <file name="u388-a.png" crc="4087971599" ref="index"/>
+    <file name="u430.png" crc="4182887281" ref="index"/>
+    <file name="u430-a.png" crc="274825302" ref="index"/>
+    <file name="u450.png" crc="4163850855" ref="index"/>
+    <file name="u450-a.png" crc="3761027346" ref="index"/>
+    <file name="u472.png" crc="4246358066" ref="index"/>
+    <file name="u472-a.png" crc="336321507" ref="index"/>
+    <file name="u106.png" crc="4057651865" ref="index"/>
+    <file name="u106-a.png" crc="3946358299" ref="index"/>
+    <file name="u146.png" crc="4016970164" ref="index"/>
+    <file name="u146-a.png" crc="264032531" ref="index"/>
+    <file name="u166.png" crc="3850685593" ref="index"/>
+    <file name="u166-a.png" crc="517867703" ref="index"/>
+    <file name="u185.png" crc="157511312" ref="index"/>
+    <file name="u185-a.png" crc="3951608838" ref="index"/>
+    <file name="u208.png" crc="219415130" ref="index"/>
+    <file name="u208-a.png" crc="3779746161" ref="index"/>
+    <file name="u230.png" crc="3877495936" ref="index"/>
+    <file name="u230-a.png" crc="399994794" ref="index"/>
+    <file name="u249.png" crc="3957668261" ref="index"/>
+    <file name="u249-a.png" crc="146439329" ref="index"/>
+    <file name="u562-4.png" crc="4020364951" ref="index"/>
+    <file name="yg51x51.jpg" crc="4111877031" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u281-9.png" crc="3988147985" ref="index"/>
+    <file name="u489-4.png" crc="3948095410" ref="index"/>
+    <file name="twitch-icon.png" crc="4148593587" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="131046956" seo="true" mt="1546644301400" redirect="true"/>
+</manifest>
